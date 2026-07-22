@@ -1,0 +1,4 @@
+Day 2 Linux commands
+pwd: print working directory
+cd: change directory
+ls: list files and directories
